@@ -25,24 +25,17 @@ export default function Main() {
         </section>
         <section className={styles.section}>
           <article>
-            <h2>Idade Antiga</h2>
-            A Idade Antiga foi um período da história que começou com o surgimento da escrita (4000 a.C.) e terminou com a queda do Império Romano do Ocidente (476 d.C.). Durante essa época, diversas civilizações surgiram, como os egípcios, gregos e romanos, e deixaram um legado cultural e histórico muito importante para a humanidade.
+            <h2>Violência contra mulheres</h2>
+                A violência contra mulheres e meninas inclui situações de agressão física, sexual,
+                psicológica e econômica. As duas formas mais comuns de violência contra a mulher, cujos
+                autores são parceiros íntimos da vítima, são: a agressão física, que se caracteriza
+                comumente pelos crimes de lesão corporal e ameaça, também chamada violência doméstica;
+                e a coerção ao sexo, chamada de violência sexual, que inclui com mais frequência os crimes
+                de estupro e atentado violento ao pudor. A violência sexual poder ser exercida no espaço
+                doméstico (casa) ou no público (rua). A agressão física é quase sempre acompanhada de
+                agressão psicológica e, de um quarto à metade das vezes, está relacionada a situações de
+                violência sexual, como, por exemplo, o estupro conjugal (SOUZA; ADESSE, 2005, p. 37)
           </article>
-        </section>
-        <section className={styles.section}>
-          <article>
-            <h2>Idade Média</h2>
-            A Idade Média foi um período da história que começou com a queda do Império Romano do Ocidente (476 d.C.) e terminou com o início do Renascimento (século XV). Durante essa época, a Europa foi marcada pelo feudalismo, pelas cruzadas e pela peste negra, além do surgimento do cristianismo como religião dominante.
-          </article>
-        </section>
-        <section className={styles.section}>
-
-          <article>
-            <h2>Idade Moderna</h2>
-            A Idade Moderna foi um período da história que começou com o fim da Idade Média (século XV) e terminou com a Revolução Francesa (1789). Durante essa época, ocorreram importantes eventos históricos, como as Grandes Navegações, a Reforma Protestante e a Revolução Industrial, que transformaram profundamente a sociedade e a economia.
-          </article>
-        </section>
-        <section>
         <br/>
         <br/>
         <iframe 
@@ -60,8 +53,8 @@ export default function Main() {
       </main>
       <aside className={styles.sidebar}>
         <section>
-          <h2>Minha Barra Lateral</h2>
-          <article>Algum conteúdo aqui...</article>
+          <h2>Barra Lateral</h2>
+          <article>Ainda não temos conteudo aqui...</article>
         </section>
       </aside>
     </div>
